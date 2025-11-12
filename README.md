@@ -65,9 +65,9 @@ SimpleOctaNav3D
     
 4.Object Types
 
-    碰撞检测的物体类型   告诉系统哪些物体算“障碍物”（一般默认Actor）
+    碰撞检测的物体类型   告诉系统哪些物体算“障碍物”
     
-5.Actor Class Filter
+5.Actor Class Filter（一般默认Actor）
 
     可选过滤器
     
